@@ -42,11 +42,11 @@ To complete the 3 pipelines using the AMtown02 dataset, with the below challenge
 Anyways, we successfully completed.
 
 ### 3.2 Pipeline overview
-
+Since the dataset (AMtown02) was given by HKU MaRS Lab, we are able to perform 3 pipelines at the same time.
 [3-5 sentences. Briefly explain the overall pipeline involving VO / 3D reconstruction / segmentation.]
 
 ### 3.3 My position in the pipeline
-
+My position is Visual SLAM.
 [3-5 sentences. Explain where your own work sat in the larger system.]
 
 ### 3.4 Reproducibility snapshot
