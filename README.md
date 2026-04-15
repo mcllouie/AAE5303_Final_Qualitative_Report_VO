@@ -42,8 +42,7 @@ To complete the 3 pipelines using the AMtown02 dataset, with the below challenge
 Anyways, we successfully completed.
 
 ### 3.2 Pipeline overview
-Since the dataset (AMtown02) was given by HKU MaRS Lab, we are able to perform 3 pipelines at the same time.
-[3-5 sentences. Briefly explain the overall pipeline involving VO / 3D reconstruction / segmentation.]
+Since the dataset (AMtown02) was given by HKU MaRS Lab, we are able to perform 3 pipelines at the same time.  The pipeline for VO mainly follows the instructions and experiences from assignemnt 2.  3DGS was originally planned to use the server providede by TAs, yet it is shut off **JUST BEFORE REPORT DATE**, then we have to complete it locally.  For segmentation, its teamate's specialties that he could complete the task swiftly.
 
 ### 3.3 My position in the pipeline
 My position is Visual SLAM.
