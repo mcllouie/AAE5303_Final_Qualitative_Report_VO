@@ -258,44 +258,22 @@ My position is Visual SLAM.
 
 ## 12. GenAI Use Declaration
 
-> During this course, I used the following AI tools: [tool names].  
-> They were used for [environment setup / debugging / prompt-based code assistance / language polishing / translation / none].  
-> All AI-assisted outputs included in this report were checked by me and verified against project requirements, documentation, or experimental evidence before being included.
+During this course, I used the following AI tools: Google Ai Reply and Gemini.  
+They were used for [environment setup / debugging / prompt-based code assistance / ~~language polishing / translation / none~~].  
+All AI-assisted outputs included in this report were checked by me and verified against project requirements, documentation, or experimental evidence before being included.
 
 ---
 
 ## 13. References
 
-1. [Course material / repo / documentation / paper]
-2. [...]
-3. [...]
-
+1. AAE5306 Course Materials
+2. https://github.com/weisongwen/AAE5306_2025-26S1/issues/10
+3. https://github.com/weisongwen/AAE5306_2025-26S1/issues/30
+4. https://vocus.cc/article/66864d4afd897800018adaad
+5. https://github.com/egdw/ORB_SLAM3_Ubuntu20.04
+6. https://wiki.ros.org/noetic/Installation/Ubuntu
 ---
 
 ## 14. Appendix (optional)
 
-### Appendix A. Figure gallery
-```md
-![Figure 1. Pipeline overview](assets/fig1_pipeline.png)
-![Figure 2. VO debugging case](assets/fig2_vo_debug.png)
-![Figure 3. Reconstruction result](assets/fig3_reconstruction.png)
-![Figure 4. Segmentation comparison](assets/fig4_segmentation.png)
-```
-
-### Appendix B. Benchmark table
-| Experiment | Setting | Metric | Result | Interpretation |
-|---|---|---:|---:|---|
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-
-### Appendix C. Failure case log
-| Case | Symptom | Cause | Fix attempted | Outcome |
-|---|---|---|---|---|
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-
-### Appendix D. Evidence traceability
-| Claim in report | Evidence path / commit / notebook / issue |
-|---|---|
-|  |  |
-|  |  |
+### I am tool lazy to do optional stuff :-)
