@@ -24,32 +24,38 @@
 
 | Item | Content |
 |---|---|
-| Team result | [What the team built or evaluated] |
-| My specific role | [What I personally handled] |
-| My strongest evidence | [commit / script / config / notebook / figure / slide / issue] |
-| My main learning focus | [What this report mainly demonstrates] |
+| Team result | Using AMtown02 as the dataset to "play" with the tools |
+| My specific role | ORB-SLAM3 |
+| My strongest evidence | Using completly MacOS with Apple Silicon to complete the Visual SLAM |
+| My main learning focus | How **NOT** to follow pre-defined workflow to obtain the same result |
 
 ---
 
 ## 3. Project Snapshot
 
 ### 3.1 Project goal
-[3-5 sentences. What problem was the team trying to solve in the context of low-altitude aerial perception?]
+To complete the 3 pipelines using the AMtown02 dataset, with the below challenges:
+1.  Stubborn guy on using ARM Mac (i.e. no bootcamp) for completing visual SLAM.
+2.  TAs had shut down the server **JUST BEFORE REPORT DATE** without prior notification, that computing 3DGS with notebook computers is an issue.
+3.  U-Net have given a complete guide, but without hands-on.
+Anyways, we successfully completed.
 
 ### 3.2 Pipeline overview
+
 [3-5 sentences. Briefly explain the overall pipeline involving VO / 3D reconstruction / segmentation.]
 
 ### 3.3 My position in the pipeline
+
 [3-5 sentences. Explain where your own work sat in the larger system.]
 
 ### 3.4 Reproducibility snapshot
 | Item | Details |
 |---|---|
-| Main environment | [Docker image / OS / ROS version / GPU or CPU] |
-| Key scripts / folders | [insert paths] |
-| Main evaluation scripts | [insert paths] |
-| Main figures in this report | [insert paths] |
-| What another person should run first | [insert] |
+| Main environment | Macbook Pro M1Pro Core with MacOS Tahoe (26.2) (Using VM Ubuntu 20.04 via UTM) |
+| Key scripts / folders | https://github.com/mcllouie/AAE5303-Group_Project-WMZ-VO/blob/main/scripts/My%20Own%20Steps.md |
+| Main evaluation scripts | https://github.com/mcllouie/AAE5303-Group_Project-WMZ-VO/blob/main/scripts/evaluate_vo_accuracy.py |
+| Main figures in this report | https://github.com/mcllouie/AAE5303-Group_Project-WMZ-VO/blob/main/figures/AMtown02-4.png |
+| What another person should run first | https://github.com/Qian9921/AAE5303_assignment2_orbslam3_demo- |
 
 ---
 
