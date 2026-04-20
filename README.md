@@ -112,7 +112,8 @@ Ask Gemini to estimate the extrinsic parameter for IMU
 - Initial prompt: IMU drifted towards upward and leftward in ORBSLAM3, refine extrinsic parameter
 - Revised prompt:
 - Added context / file references:
-- Tbc: !!opencv-matrix
+```bash
+Tbc: !!opencv-matrix
 
    rows: 4
 
@@ -127,7 +128,9 @@ Ask Gemini to estimate the extrinsic parameter for IMU
            1.0,  0.0,  0.0, -0.09965,
 
            0.0,  0.0,  0.0,  1.0]
+```
 - Resulting config or code change:
+```bash
 Tbc: !!opencv-matrix
    rows: 4
    cols: 4
@@ -136,6 +139,7 @@ Tbc: !!opencv-matrix
             0.008727, -0.008726, -0.999924, -0.02840,
             0.999924,  0.008650,  0.008803, -0.09965,
             0.0,       0.0,       0.0,       1.0]
+```
 - What the AI still could not solve:
 
 ### What this shows
